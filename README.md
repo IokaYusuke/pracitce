@@ -1,3 +1,4 @@
 # pracitce
 
 ## このリポジトリはgitになれるようのものです。
+## clone test
